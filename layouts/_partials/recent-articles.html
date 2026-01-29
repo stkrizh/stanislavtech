@@ -1,0 +1,7 @@
+{{ if .Site.Params.homepage.showRecent | default false }}
+  <h2 class="mt-8 text-2xl font-extrabold">{{ i18n "shortcode.recent_articles" | emojify }}</h2>
+  {{ range first .Site.Params.homepage.recentLimit (.Paginate (where .Site.RegularPages "Type" "in" .Site.Params.mainSections) .Site.Params.homepage.recentLimit).Pages }}
+    {{/* Custom: Pass scope as 'show_category' to show categories */}}
+    {{ partial "article-link.html" (dict "page" . "scope" "show_category") }}
+  {{ end }}
+{{ end }}

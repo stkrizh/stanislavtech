@@ -1,0 +1,1 @@
+Writing is a **form of learning**, so this blog is an attempt to deepen [my](/about) understanding of **software engineering**. I write about various technical subjects, including Python, Go, AI, software design, and **building products**.

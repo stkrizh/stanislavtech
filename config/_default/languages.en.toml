@@ -1,0 +1,22 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "stanislav.tech"
+
+[params]
+  dateFormat = "2 January 2006"
+  mainSections = ["articles", "til", "book-reviews"]
+
+[params.author]
+  name = "Stanislav Kiriukhin"
+  image = "img/author.jpg"
+  bio = "Striving to build valuable, reliable, and maintainable software."
+  links = [
+     { github = "https://github.com/stkrizh" },
+     { email = "mailto:st.krizh@gmail.com" },
+     { telegram = "https://t.me/stkrizh" },
+     { x-twitter = "https://twitter.com/stkrizh" },
+     { link = "https://habr.com/ru/users/stkrizh/" },
+  ]

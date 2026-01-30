@@ -14,7 +14,7 @@ There are plenty of reasons **not** to start a blog, such as not having enough t
 
 Many writers believe that writing helps you learn. To put it more strongly, *writing is learning*. It makes you think in a more organized way, and by writing regularly, you develop clearer, more structured thinking. When you write on a particular subject, your scattered thoughts start to form clear sentences and paragraphs. 
 
-Paul Graham makes a stronger point in [one of his essays](https://paulgraham.com/writing44.html) that writing can *generate new ideas*.
+In [one of his essays](https://paulgraham.com/writing44.html), Paul Graham makes the stronger point that writing can *generate new ideas*.
 
 > I think it's far more important to write well than most people realize. Writing doesn't just communicate ideas; it generates them. If you're bad at writing and don't like to do it, you'll miss out on most of the ideas writing would have generated.
 
@@ -26,7 +26,7 @@ A similar opinion was presented by Richard Feynman in his interview with histori
 
 > They aren’t a record of my thinking process. They are my thinking process. I actually did the work on the paper.
     
-Beyond those arguments, writing something meaningful usually requires research first. This might mean reading articles, blog posts, watching videos, or listening to podcasts — all help you learn your topic. The more you research, the better you understand. Ultimately, research leads to a structured text that cements your knowledge.
+Beyond those arguments, writing something meaningful usually requires research first. This might mean reading articles and blog posts, watching videos, or listening to podcasts — all of which help you learn your topic. The more you research, the better you understand. Ultimately, research leads to a structured text that cements your knowledge.
 
 ## Sharing ideas
 

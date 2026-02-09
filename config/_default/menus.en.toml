@@ -62,10 +62,10 @@
 #  pageRef = "til"
 #  weight = 15
 
-# [[footer]]
-#  name = "Book Reviews"
-#  pageRef = "book-reviews"
-#  weight = 20
+[[footer]]
+  name = "Book Reviews"
+  pageRef = "book-reviews"
+  weight = 20
 
 [[footer]]
   name = "Tags"

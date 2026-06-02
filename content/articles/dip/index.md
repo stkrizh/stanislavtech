@@ -380,5 +380,5 @@ But adding a team of software developers and an indefinite support period for su
 3. [DIP in the Wild](https://martinfowler.com/articles/dipInTheWild.html)
 4. [Increasing Cohesion in Go with Generic Decorators](https://threedots.tech/post/increasing-cohesion-in-go-with-generic-decorators/)
 
-[^1]: The [full version of the code](https://github.com/stkrizh/stanislavtech-examples/tree/main/examples/2026-04-dip) is available on GitHub.
+[^1]: The [full version of the code](https://github.com/stkrizh/stanislavtech-examples/tree/main/examples/2026-06-dip) is available on GitHub.
 [^2]: In a real application, you should consider using [the Outbox pattern](https://brandur.org/job-drain) for notifications.

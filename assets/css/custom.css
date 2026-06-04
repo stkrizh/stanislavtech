@@ -21,6 +21,18 @@ html {
     color: var(--color-neutral-700);
 }
 
+.theme-image-dark {
+    display: none;
+}
+
+html.dark .theme-image-light {
+    display: none;
+}
+
+html.dark .theme-image-dark {
+    display: block;
+}
+
 /* Syntax Highlighting (GitHub - Light) */
 /* Generated using: hugo gen chromastyles --style=github */
 

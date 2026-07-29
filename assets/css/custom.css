@@ -21,6 +21,15 @@ html {
     color: var(--color-neutral-700);
 }
 
+.prose blockquote p:first-of-type::before,
+.prose blockquote p:last-of-type::after {
+    content: none;
+}
+
+.prose blockquote {
+    font-weight: 400;
+}
+
 .theme-image-dark {
     display: none;
 }

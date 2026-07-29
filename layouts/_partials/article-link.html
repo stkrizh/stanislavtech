@@ -24,8 +24,8 @@
             src="{{ .Permalink }}"
           {{ else }}
             class="w-24 rounded-md sm:w-40 object-cover" 
-            srcset="{{- (.Fill "160x120 smart").Permalink }} 160w, {{- (.Fill "320x240 smart").Permalink }} 2x"
-            src="{{ (.Fill "160x120 smart").Permalink }}" width="160" height="120"
+            srcset="{{- (.Fill "160x120 Center").Permalink }} 160w, {{- (.Fill "320x240 Center").Permalink }} 2x"
+            src="{{ (.Fill "160x120 Center").Permalink }}" width="160" height="120"
           {{ end }}
           {{ if $page.Site.Params.enableImageLazyLoading | default true }}
             loading="lazy"
@@ -88,8 +88,8 @@
               src="{{ .Permalink }}"
             {{ else }}
               class="w-full h-48 rounded-md object-cover" 
-              srcset="{{- (.Fill "800x400 smart").Permalink }} 800w"
-              src="{{ (.Fill "800x400 smart").Permalink }}" width="800" height="400"
+              srcset="{{- (.Fill "800x400 Center").Permalink }} 800w"
+              src="{{ (.Fill "800x400 Center").Permalink }}" width="800" height="400"
             {{ end }}
             {{ if $page.Site.Params.enableImageLazyLoading | default true }}
               loading="lazy"
